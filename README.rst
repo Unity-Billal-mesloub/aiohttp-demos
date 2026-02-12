@@ -2,8 +2,8 @@
 aiohttp-demos
 =============
 
-.. image:: https://github.com/aio-libs/aiohttp-demos/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/aio-libs/aiohttp-demos/actions/workflows/ci.yml
+.. image:: https://github.com/Unity-Billal-mesloub/aiohttp-demos/actions/workflows/ci.yml/badge.svg
+   :target: https://github.com/Unity-Billal-mesloub/aiohttp-demos/actions/workflows/ci.yml
    :alt: GitHub Actions status for master branch
 .. image:: https://badges.gitter.im/Join%20Chat.svg
     :target: https://gitter.im/aio-libs/Lobby
@@ -22,14 +22,14 @@ Imagetagger Deep Learning Image Classifier
 ------------------------------------------
 Example how to deploy deep learning model with aiohttp.
 
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp-demos/master/docs/_static/imagetagger.png
+.. image:: https://raw.githubusercontent.com/Unity-Billal-mesloub/aiohttp-demos/main/docs/_static/imagetagger.png
 
 
 URL shortener
 -------------
 Simple URL shortener with Redis storage.
 
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp-demos/master/docs/_static/shorty.png
+.. image:: https://raw.githubusercontent.com/Unity-Billal-mesloub/aiohttp-demos/master/docs/_static/shorty.png
 
 
 Toxic Comments Classifier
@@ -37,7 +37,7 @@ Toxic Comments Classifier
 UI and API for classification of offensive and toxic comments using Kaggle data and simple
 logistic regression.
 
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp-demos/master/docs/_static/moderator.png
+.. image:: https://raw.githubusercontent.com/Unity-Billal-mesloub/aiohttp-demos/master/docs/_static/moderator.png
 
 
 Moderator Slack Bot
@@ -53,21 +53,21 @@ Twitter clone
 -------------
 Twitter clone with MongoDB storage.
 
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp-demos/master/docs/_static/motortwit.png
+.. image:: https://raw.githubusercontent.com/Unity-Billal-mesloub/aiohttp-demos/master/docs/_static/motortwit.png
 
 
 Chat
 ----
 Simple chat using websockets.
 
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp-demos/master/docs/_static/chat.png
+.. image:: https://raw.githubusercontent.com/Unity-Billal-mesloub/aiohttp-demos/master/docs/_static/chat.png
 
 
 Polls app
 ---------
 Simple *polls* application with PostgreSQL storage.
 
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp-demos/master/docs/_static/polls.png
+.. image:: https://raw.githubusercontent.com/Unity-Billal-mesloub/aiohttp-demos/master/docs/_static/polls.png
     :align: center
     :width: 460px
 
@@ -76,7 +76,7 @@ Blog
 ----
 Blog application with PostgreSQL storage and Redis session store.
 
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp-demos/master/docs/_static/blog.png
+.. image:: https://raw.githubusercontent.com/Unity-Billal-mesloub/aiohttp-demos/master/docs/_static/blog.png
     :align: center
     :width: 460px
 
